@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://mailonberni.github.io/preloaderJSLottie/limpaae-loading.json',
+        path: 'https://MailonBerni.github.io/preloaderJSLottie/limpaae-loading.json',
     });
 }
 
